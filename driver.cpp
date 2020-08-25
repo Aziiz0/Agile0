@@ -1,5 +1,6 @@
 #include <iostream>
 #include "feature1.h"
+#include "feature3.h"
 
 using namespace std;
 
@@ -9,7 +10,7 @@ int main()
   cout << "Development Team: Adeeb, Erik, Nicholas, Anthony" << endl;
   feature1();
   //feature2();
-  //feature3();
+  feature3();
   cout << endl;
   
   return 0;
