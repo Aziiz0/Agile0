@@ -7,7 +7,7 @@ int main()
 {
   cout << "Welcome to Agile0" << endl;
   cout << "Development Team: Adeeb, Erik, Nicholas, Anthony" << endl;
-  //feature1();
+  feature1();
   //feature2();
   //feature3();
   cout << endl;
