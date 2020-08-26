@@ -10,4 +10,4 @@ void feature1()
     cout << "My name is Adeeb Tajalli, this is feature 01." << endl;
 }
 
-#endif FEATURE1_H
+#endif
