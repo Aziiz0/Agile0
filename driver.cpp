@@ -2,6 +2,7 @@
 
 #include "feature1.h"
 #include "feature2.h"
+#include "feature3.h"
 
 using namespace std;
 
@@ -12,7 +13,7 @@ int main()
   
   feature1();
   feature2();
-  //feature3();
+  feature3();
   
   cout << endl;
   
